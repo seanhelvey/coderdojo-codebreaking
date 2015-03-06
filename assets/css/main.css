@@ -1,5 +1,5 @@
 h1 {
-  padding-top: 10%;
+  padding: 3%;
   text-align: center;
   font-size: 48px;
 }
@@ -12,4 +12,8 @@ h1 {
 
 .input-group-addon {
   background-color: red;
+}
+
+#video {
+    text-align: center;
 }
